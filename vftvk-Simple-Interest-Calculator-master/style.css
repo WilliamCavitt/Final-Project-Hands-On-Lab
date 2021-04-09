@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+  background-color:black; 
+  font-color:white; 
+  font-style:arial
+}
+h1{
+  color:grey; 
+  font-style:verdana;
+}
+
+class.maindiv {
+  background-color:white;
+  font-color:black;
+  width:300 px;
+  padding:20px;
+  border-radius:25px;
+  align:center;
+}
 
 
